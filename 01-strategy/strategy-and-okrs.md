@@ -7,7 +7,7 @@
 
 ## 0. Chosen scenario
 
-**Path:** my own initiative_
+**Path:** my own initiative_My company is a distributor of PPE equipment.  We have always had a commitment to only sell product that are protecting humans (PPE).  Recently, one of our supplier came to us with the proposition of starting to distribute a product called Load Arrest.  There is an opportunity in the market because 3M has recently discontinued their product line.  This created increased demand from customer seeking alternative solution.  The objective is not only to sell the equipement but to also determined whether we could develop a complete solution including technical services (who performs recertification and repairs).  If we move forway with the project, the supplier would give us the monopoly of the service componenet for Canada.
 
 _One line on why you picked it._
 
