@@ -45,11 +45,13 @@ _Run the devil's-advocate prompt (in the Sprint 2 guide). Capture the verdict._
 
 | Prompt question | What the AI surfaced | Change or defend? |
 |---|---|---|
-| Biggest assumption that could be wrong | _____ | _____ |
-| The board question I can't yet answer | _____ | _____ |
-| KRs that are outputs in disguise | _____ | _____ |
-| The "no" I should reconsider | _____ | _____ |
-| Strategy or wish list? Why? | _____ | · |
+| Biggest assumption that could be wrong | I am assuming that the model thatthe demand for Load Arrest translate into an attractive, defensible service business for my company  | Defend; we have seen sign (request for quotes, discussion with product experts) that are showing that there is an opportunity here. |
+| The board question I can't yet answer | What has to be true for this investment to generate an attractive return, and what evidence do we have that those conditions are tru | Change:  move to an economic model not just an assumption: (AI proposes At X installed units in Canada, generating Y service events per year at $Z average revenue and A% gross margin, plus B dollars of incremental PPE revenue per customer, we generate $___ EBITDA after $___ of fixed technical infrastructure and working capital.
+And then:
+Today, we have validated X, partially validated Y, and have no evidence for Z  |
+| KRs that are outputs in disguise | 25 technical service contracts signed is mostly an output not an outcome | Change to $X in recurring service revenue |
+| The "no" I should reconsider |Not selling in the USA due to the geopolitical climate|change -  We will not enter the US until Canadian operations demonstrate X service penetration, Y gross margin, Z technical capability, and we have confirmed the regulatory, liability and commercial requirements for US servic |
+| Strategy or wish list? Why? | Right now it is a wish list dressed as a strategy.  you have identified an attractive market opportunity and several desired outcomes but you haven't yet articulated the economic logic,  trade-off, or evidence that makes you right to win believable  | · |
 
 ## 5. Self-diagnostic (6 questions)
 
