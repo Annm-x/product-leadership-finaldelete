@@ -7,7 +7,7 @@
 
 ## 0. Chosen scenario
 
-**Path:** _Fable Growth (B2C · retention + engagement) · Meridian Foundations (B2B · adoption + expansion) · my own initiative_
+**Path:** my own initiative_
 
 _One line on why you picked it._
 
