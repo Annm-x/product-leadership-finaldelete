@@ -7,7 +7,8 @@
 
 ## 0. Chosen scenario
 
-**Path:** my own initiative_My company is a distributor of PPE equipment.  We have always had a commitment to only sell product that are protecting humans (PPE).  Recently, one of our supplier came to us with the proposition of starting to distribute a product called Load Arrest.  There is an opportunity in the market because 3M has recently discontinued their product line.  This created increased demand from customer seeking alternative solution.  The objective is not only to sell the equipement but to also determined whether we could develop a complete solution including technical services (who performs recertification and repairs).  If we move forway with the project, the supplier would give us the monopoly of the service component for Canada.
+**Path:** my own initiative
+My company is a distributor of PPE equipment.  We have always had a commitment to only sell product that are protecting humans (PPE).  Recently, one of our supplier came to us with the proposition of starting to distribute a product called Load Arrest.  There is an opportunity in the market because 3M has recently discontinued their product line.  This created increased demand from customer seeking alternative solution.  The objective is not only to sell the equipement but to also determined whether we could develop a complete solution including technical services (who performs recertification and repairs).  If we move forway with the project, the supplier would give us the monopoly of the service component for Canada.
 
 The company, however, has never been involved in this type of business, so this would be a completely new product categorie for us.  We currently started selling the product through special order (at no risks for us) for customer willing to purchase the products immediately.  What we are discovering is that the customer purchasing these products are not part of our typical market segment, making the decision to commit even more complicated.  
 
@@ -45,7 +46,11 @@ _Run the devil's-advocate prompt (in the Sprint 2 guide). Capture the verdict._
 
 | Prompt question | What the AI surfaced | Change or defend? |
 |---|---|---|
-| Biggest assumption that could be wrong | I am assuming that the model thatthe demand for Load Arrest translate into an attractive, defensible service business for my company  | Defend; we have seen sign (request for quotes, discussion with product experts) that are showing that there is an opportunity here. |
+| Biggest assumption that could be wrong |Three assumptions are bundled together:
+The demand is a transition, not a market. Customers scrambling after a discontinuation buy once, from whoever can ship fastest. Nothing says they stay when the dust settles, or that they choose you over the established competitors who will also go after 3M's installed base.
+The service exclusivity is valuable. Your draft treats it as a moat, but the supplier gave it to you. You didn't earn it. It is only worth something if there is a large enough installed base in Canada needing recertification, and if your customers will send units to you rather than to the OEM, a competitor, or an in-house team.
+Customers outside your segment will convert to PPE buyers. Right now they buy Load Arrest from you because they have a problem and you had stock. That is not evidence they prefer you as a supplier. You currently have zero data on installed base size, service volume, or cross-sell behavior. Yet your whole "how to win" rests on all three.
+| Defend; we have seen sign (request for quotes, discussion with product experts) that are showing that there is an opportunity here. |
 | The board question I can't yet answer | What has to be true for this investment to generate an attractive return, and what evidence do we have that those conditions are tru | Change:  move to an economic model not just an assumption: (AI proposes At X installed units in Canada, generating Y service events per year at $Z average revenue and A% gross margin, plus B dollars of incremental PPE revenue per customer, we generate $___ EBITDA after $___ of fixed technical infrastructure and working capital.
 And then:
 Today, we have validated X, partially validated Y, and have no evidence for Z  |
