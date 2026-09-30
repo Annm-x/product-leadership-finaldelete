@@ -22,7 +22,7 @@ _One line on why you picked it._
 | **Where to play**: segment, geography, channel, use case (the no's matter too) | Limited to Canada because of regional compliance and adress the new market segments. |
 | **How to win**: your differentiator competitors can't easily replicate | Access to quality product at a very competitive price and technical service and expertise to help the customer and support the after sales process.  Also, by adressing new market segments, we will engage these new market in our regular product scope to increase our PPE business. |
 | **Capabilities required**: what you must be world-class at (build / buy / partner) | We must get the training for the technical aspect, we also need to be good at engaging the current sales process to develop new market segments. |
-| **Management systems**: the metrics and rituals that reinforce your choices | _____ |
+| **Management systems**: the metrics and rituals that reinforce your choices | Unit quotes and sales per month and quote conversion rate |
 
 ## 2. Your one hard no
 
